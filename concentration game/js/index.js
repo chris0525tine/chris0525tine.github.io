@@ -15,7 +15,7 @@ var tiles = new Array();
 var tile = new tile_box();
 var picked_tiles = new Array();
 var can_pick = true;
-var pictures = ['<i class="fa fa-cloud"></i></span>',
+var pictures = [ '<i class="fa fa-cloud"></i></span>' ,
   '<i class="fa fa-tachometer"></i></span>',
   '<i class="fa fa-trophy"></i></span>',
   '<i class="fa fa-money"></i></span>',
